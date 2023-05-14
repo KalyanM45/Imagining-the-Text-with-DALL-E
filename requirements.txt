@@ -1,0 +1,4 @@
+Python
+Streamlit
+PIL
+urllib.request
